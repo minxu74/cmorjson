@@ -2437,7 +2437,7 @@
                 "units": "kg m-2 s-1",
                 "variable_id": "fRootLitter"
             },
-            "cmvar": "fLeafLitter",
+            "cmvar": "fRootLitter",
             "confidence": 90,
             "dimensions": {
                 "latitude": {
