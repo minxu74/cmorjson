@@ -3675,7 +3675,7 @@
                 "time_label": "time-mean",
                 "time_title": "Temporal mean",
                 "type": "real",
-                "units": "%",
+                "units": "1",
                 "variable_id": "burntFractionAll"
             },
             "cmvar": "burntFractionAll",
